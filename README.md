@@ -6,7 +6,6 @@
 
 ## 操作说明
 
-![image-20230715224625538](READEME.assets/image-20230715224625538.png)
 
 1. 运行main.py文件
 
